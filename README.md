@@ -3,7 +3,9 @@
 # Hi, I'm Dave 👋
 
 **Self-taught developer** from Nigeria 🇳🇬 | Building my way into Cloud Engineering
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ3bmV0Nnd4bW8zbGkyd3J1MnkzaGNycWZ3aGF0azM2eHZpczJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dng2l9pDF3u4JqS95q/giphy.gif" width="350" alt="Fast Typing Cat" />
+
+<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/b24a799a-a488-43f4-a854-73b0ac714d59" />
+
 
 <br/><br/>
 
