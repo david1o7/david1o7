@@ -3,8 +3,13 @@
 # Hi, I'm Dave 👋
 
 **Self-taught developer** from Nigeria 🇳🇬 | Building my way into Cloud Engineering
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZ3bmV0Nnd4bW8zbGkyd3J1MnkzaGNycWZ3aGF0azM2eHZpczJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dng2l9pDF3u4JqS95q/giphy.gif" width="350" alt="Fast Typing Cat" />
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+learning+Go+&+Docker;Building+production-ready+apps;Always+shipping+something)
+<br/><br/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+building+with+Go+%26+Docker;Crafting+high-performance+backends;Always+shipping+something+new!&font=Fira+Code&center=true&width=500&height=40&color=00ADD8)
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=david1o7&color=00add8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/david1o7)
 
 </div>
 
@@ -34,13 +39,6 @@ Docker • Redis • PostgreSQL • Prometheus • Flask • Django • REST API
 
 **Currently Exploring**  
 Cloud Platforms • System Design • Observability
-
----
-
-### 📊 GitHub Stats
-![Dave's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david1o7&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david1o7&layout=compact&theme=tokyonight)
 
 ---
 
