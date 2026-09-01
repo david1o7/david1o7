@@ -37,7 +37,7 @@ Started coding to solve real problems and haven't stopped since. Currently focus
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & Tools**  
-Docker • Redis • PostgreSQL • Prometheus • Flask • Django • REST APIs
+Docker • Redis • PostgreSQL • Prometheus • REST APIs
 
 **Currently Exploring**  
 Cloud Platforms • System Design • Observability
@@ -45,7 +45,7 @@ Cloud Platforms • System Design • Observability
 ---
 
 ### 🔥 Featured Projects
-- **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — Go + Redis + Docker + Prometheus (Active)
+- **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — Go + Redis + Docker + Prometheus + Nginx + VPS Ready(Active)
 - **Clip-it** — React Native Expo note-taking app
 - **Random Threads** — Anonymous social platform (React + Flask)
 
