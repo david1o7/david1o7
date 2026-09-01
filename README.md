@@ -22,7 +22,7 @@ I'm a 17-year-old self-taught developer passionate about backend systems, cloud 
 
 Started coding to solve real problems and haven't stopped since. Currently focused on building scalable backend services while sharing my learning journey.
 
-- 🔭 Currently working on: **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — a production-like Go app with Redis caching, rate limiting & monitoring
+- 🔭 Currently working on: Building of Backend Infra & Microservices
 - 🌱 Learning: **Go, System Design, Cloud (AWS/GCP), Docker & Kubernetes basics**
 - 📈 CGPA: **3.96** (on track for First Class)
 - 🎯 2026 Goal: Land a strong Cloud/Backend Engineering internship
