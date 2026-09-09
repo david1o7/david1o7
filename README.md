@@ -46,7 +46,7 @@ Cloud Platforms • System Design • Observability
 
 ### 🔥 Featured Projects
 - **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — Go + Redis + Docker + Prometheus + Nginx + VPS Ready(v2.0)
-- **[Kue](https://github.com/david1o7/Distributed-job-queue)** - Go · Redis · Docker · Prometheus · Grafana · slog · Lua (v1.0)
+- **[Kue - Distributed job orchestration system ](https://github.com/david1o7/Distributed-job-queue)** - Go · Redis · Docker · Prometheus · Grafana · slog · Lua (v1.0)
 - **Clip-it** — React Native Expo note-taking app
 
 ---
