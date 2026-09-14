@@ -42,6 +42,12 @@ Docker • Redis • PostgreSQL • Prometheus • REST APIs
 **Currently Exploring**  
 Cloud Platforms • System Design • Observability
 
+<p align="center">
+  <a href="https://www.credly.com/badges/3d287882-d326-495e-adc1-5f12c583fc26/public_url" target="_blank">
+    <img width="601" height="601" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/b16e55bd-4fae-44a4-821a-c8ce38477a47" />
+  </a>
+</p>
+
 ---
 
 ### 🔥 Featured Projects
