@@ -44,8 +44,12 @@ Cloud Platforms • System Design • Observability
 
 <p align="center">
   <a href="https://www.credly.com/badges/3d287882-d326-495e-adc1-5f12c583fc26/public_url" target="_blank">
-    <img width="301" height="301" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/b16e55bd-4fae-44a4-821a-c8ce38477a47" />
+    <img width="251" height="251" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/b16e55bd-4fae-44a4-821a-c8ce38477a47" />
   </a>
+    <br>
+  <strong>AWS Cloud Essentials Knowledge Badge</strong>
+  <br>
+  <sub>Validated expertise in AWS Global Infrastructure, Security & Compliance, Core Compute, and Cost Management.</sub>
 </p>
 
 ---
