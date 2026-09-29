@@ -2,7 +2,7 @@
 
 # Hi, I'm Dave 👋
 
-**Self-taught developer** from Nigeria 🇳🇬 | Building my way into Cloud Engineering
+**Self-taught developer** from Nigeria 🇳🇬 | Building my way into systems/backend programming
 
 <img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/b24a799a-a488-43f4-a854-73b0ac714d59" />
 
@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-I'm a 17-year-old self-taught developer passionate about backend systems, cloud infrastructure, and turning ideas into working products. 
+I'm an 18-year-old self-taught developer passionate about backend systems, cloud infrastructure, and turning ideas into working products. 
 
 Started coding to solve real problems and haven't stopped since. Currently focused on building scalable backend services while sharing my learning journey.
 
@@ -57,7 +57,7 @@ Cloud Platforms • System Design • Observability
 ### 🔥 Featured Projects
 - **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — Go + Redis + Docker + Prometheus + Nginx + VPS Ready(v2.0)
 - **[Kue - Distributed job orchestration system ](https://github.com/david1o7/Distributed-job-queue)** - Go · Redis · Docker · Prometheus · Grafana · slog · Lua (v1.0)
-- **Clip-it** — React Native Expo note-taking app
+- **[Server labs - my journal](https://github.com/david1o7/server-labs)** = A collection of My thoughts, Post-mortems, challenges and wins as i configure my servers, learn networking and host apps via my servers.
 
 ---
 
@@ -70,7 +70,7 @@ Cloud Platforms • System Design • Observability
 
 **"Building in public, one commit at a time."** 💻
 
-*Last updated: July 2026*
+*Last updated: sept 2026*
 
 ---
 
