@@ -7,7 +7,7 @@ I'm a programmer from Nigeria focused on **Go, backend infrastructure, and syste
 ### Exciting Projects and Repos
 
 - **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — A Go URL shortener built with PostgreSQL, Redis, Docker, and Prometheus.
-- **[Kue](https://github.com/david1o7/Distributed-job-queue)** — A distributed job queue built with Go, Redis, and Lua.
+- **[Kue](https://github.com/david1o7/Distributed-job-queue)** — A distributed job orchestration engine built with Go, Redis, and Lua.
 - **[Server Labs](https://github.com/david1o7/server-labs)** — Hands-on experiments and notes on Linux, networking, VPS administration, and deployment.
 
 ### Currently Exploring
@@ -25,3 +25,4 @@ Go · C · SQL · Database Internals · Linux · Networking · Operating Systems
 ---
 
 *Building things, breaking things, learning along the way.*
+*Its all cool in the end, E no really go far.*
