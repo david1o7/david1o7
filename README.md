@@ -11,7 +11,11 @@ I'm a programmer from Nigeria focused on **Go, backend infra, and systems progra
 - **[Server Labs](https://github.com/david1o7/server-labs)** — Hands-on experiments and notes on Linux, networking, VPS administration, and deployment.
 
 ### Currently Exploring
-![Go](https://shields.io) ![C](https://shields.io) ![Rust](https://shields.io)
+<p align="left">
+  <img src="https://jsdelivr.net" alt="Go" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://jsdelivr.net" alt="C" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://jsdelivr.net" alt="Rust" height="40" style="vertical-align: middle;"/>
+</p>
 
 Go · C · SQL · Database Internals · Linux · Networking · Operating Systems · Cloud 
 
