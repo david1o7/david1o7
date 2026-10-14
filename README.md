@@ -25,4 +25,5 @@ Go · C · SQL · Database Internals · Linux · Networking · Operating Systems
 ---
 
 *Building things, breaking things, learning along the way.*
+<br/>
 *Its all cool in the end, E no really go far.*
