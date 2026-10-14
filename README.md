@@ -1,77 +1,20 @@
-<div align="center">
+# Hey, I'm Dave 👋
 
-# Hi, I'm Dave 👋
-
-**Self-taught developer** from Nigeria 🇳🇬 | Building my way into systems/backend programming
-
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/b24a799a-a488-43f4-a854-73b0ac714d59" />
-
-
-<br/><br/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Currently+building+with+Go+%26+Docker;Crafting+high-performance+backends;Always+shipping+something+new!&font=Fira+Code&center=true&width=500&height=40&color=00ADD8)
+I'm a programmer from Nigeria focused on **Go, backend infra, and systems programming**. I enjoy building infrastructure, exploring Linux, and understanding how software works under the hood.
 
 [![Visitor Count](https://komarev.com/ghpvc/?username=david1o7&color=00add8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/david1o7)
 
-</div>
+### Exciting projects and repos i have going on
+
+- **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** — A Go URL shortener built with PostgreSQL, Redis, Docker, and Prometheus.
+- **[Kue](https://github.com/david1o7/Distributed-job-queue)** — A distributed job queue built with Go, Redis, and Lua.
+- **[Server Labs](https://github.com/david1o7/server-labs)** — Hands-on experiments and notes on Linux, networking, VPS administration, and deployment.
+
+### Currently Exploring
+![Go](https://shields.io) ![C](https://shields.io) ![Rust](https://shields.io)
+
+Go · C · SQL · Database Internals · Linux · Networking · Operating Systems · Cloud 
 
 ---
 
-### 🚀 About Me
-I'm an 18-year-old self-taught developer passionate about backend systems, cloud infrastructure, and turning ideas into working products. 
-
-Started coding to solve real problems and haven't stopped since. Currently focused on building scalable backend services while sharing my learning journey.
-
-- 🔭 Currently working on: Building of Backend Infra & Microservices
-- 🌱 Learning: **Go, System Design, Cloud (AWS/GCP), Docker & Kubernetes basics**
-- 📈 CGPA: **3.96** (on track for First Class)
-- 🎯 2026 Goal: Land a strong Cloud/Backend Engineering internship
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Backend & Tools**  
-Docker • Redis • PostgreSQL • Prometheus • REST APIs
-
-**Currently Exploring**  
-Cloud Platforms • System Design • Observability
-
-<p align="center">
-  <a href="https://www.credly.com/badges/3d287882-d326-495e-adc1-5f12c583fc26/public_url" target="_blank">
-    <img width="251" height="251" alt="aws-knowledge-cloud-essentials-training-badge" src="https://github.com/user-attachments/assets/b16e55bd-4fae-44a4-821a-c8ce38477a47" />
-  </a>
-    <br>
-  <strong>AWS Cloud Essentials Knowledge Badge</strong>
-  <br>
-  <sub>Validated expertise in AWS Global Infrastructure, Security & Compliance, Core Compute, and Cost Management.</sub>
-</p>
-
----
-
-### 🔥 Featured Projects
-- **[Linux URL Shortener](https://github.com/david1o7/linux-url-shortener)** - Go + Redis + Docker + Prometheus + Nginx + VPS Ready(v2.0)
-- **[Kue - Distributed job orchestration system ](https://github.com/david1o7/Distributed-job-queue)** - Go · Redis · Docker · Prometheus · Grafana · slog · Lua (v1.0)
-- **[Server labs - my journal](https://github.com/david1o7/server-labs)** - A collection of My thoughts, Post-mortems, challenges and wins as i configure my servers, learn networking and host apps via my servers.
-
----
-
-### 📫 Let's Connect
-- Instagram: [@david_toafrica](https://instagram.com/david_toafrica)
-- Portfolio: [devfrdavid.netlify.app](https://devfrdavid.netlify.app)
-- Email: (davidirhene27@gmail.com)
-
----
-
-**"Building in public, one commit at a time."** 💻
-
-*Last updated: sept 2026*
-
----
-
-*Made with ❤️ and too much coffee*
+*Building things, breaking things, learning along the way.*
